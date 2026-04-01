@@ -1,3 +1,6 @@
+## 📊 Preview
+![Rating vs Revenue](images/rating_vs_revenue.png)
+![Top Directors Chart](images/top_directors.png)
 #Movie Success Analysis
 
 #Project Overview
